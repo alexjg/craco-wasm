@@ -1,0 +1,10 @@
+{
+  "name": "craco-wasm",
+  "version": "0.0.1",
+  "description": "craco plugin to add support for WASM modules",
+  "main": "index.js",
+  "repository": "https://github.com/alexjg/craco-wasm",
+  "author": "Alex Good <alex@memoryandthought.me>",
+  "license": "MIT",
+  "private": false
+}
